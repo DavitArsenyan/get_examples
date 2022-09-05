@@ -1,6 +1,6 @@
 a = 42
 
 def foo(x):
-    print(x)
+    return(x+1)
 
 foo(a)
